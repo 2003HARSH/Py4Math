@@ -37,3 +37,4 @@ Type `>>> py4math.help()` for further assistance.
 ---
 
 Feel free to contribute and enhance the module. Happy coding!
+
